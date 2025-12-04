@@ -14,3 +14,4 @@ Current examples:
 - [Code](./examples/code.md): this shows some example of code blocks in use
 - [iframe](./examples/iframe.md): this shows how you can use an iframe in your TechDocs
 - [GitHub Mermaid](./examples/mermaid-github.md): this shows you how GitHub Mermaid renders in TechDocs
+- [PlantUML](./examples/plantuml.md): this showcases how to use PlantUML diagrams in your TechDocs
